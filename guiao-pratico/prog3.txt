@@ -1,0 +1,2 @@
+print v      // erro: variável v não definida
+print "lixo"

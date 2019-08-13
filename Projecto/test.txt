@@ -1,0 +1,5 @@
+blend im1.jpg, im2.jpg
+resize im1.jpg 500, 200
+blur im2.jpg
+canny im2.jpg
+save im2.jpg
